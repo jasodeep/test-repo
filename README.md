@@ -8,5 +8,11 @@ This is a [Drupal 8](https://www.drupal.org/8) installation site powered by [Doc
 * memcached
 ## Setup Instructions
 ### Step 1: Environment setup
-* Install **docksal**. [Installtion Guide](https://docksal.io/installation).
+* Install **Docksal**. [Installtion Guide](https://docksal.io/installation).
 * Install **AWS Command Line Interface**. [Installtion Guide](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
+### Step 2: Project Setup
+* Clone this repo into your Projects directory
+```
+git clone git@github.com:innoraft/grievance-portal.git grievance-portal
+cd grievance-portal
+```
