@@ -24,8 +24,8 @@ AWS_ACCESS_KEY_ID=
 AWS_SECRECT_ACCESS_KEY=
 ```
 **2.** Copy and rename the following files <br>
-`.config/default/default.settings.php` to `.docksal/settings.php` <br>
-`.config/default/default.settings.local.php` to `.docksal/settings.local.php` 
+`.config/default/default.settings.php` to `.docksal/default/settings.php` <br>
+`.config/default/default.settings.local.php` to `.docksal/default/settings.local.php` 
 <br><br>
 **3.** Enter database credentials in `.docksal/settings.local.php` 
 ```
