@@ -23,7 +23,6 @@ S3_PREFIX=
 AWS_ACCESS_KEY_ID=
 AWS_SECRECT_ACCESS_KEY=
 ```
-**2.** Copy and rename the following files
-`.config/default/default.settings.php` to `.docksal/settings.php` 
-and 
+**2.** Copy and rename the following files <br>
+`.config/default/default.settings.php` to `.docksal/settings.php` <br>
 `.config/default/default.settings.local.php` to `.docksal/settings.local.php` 
