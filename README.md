@@ -1,5 +1,5 @@
 # Grievance Portal
-This is a [Drupal 8](https://www.drupal.org/8) installation site powered by [Docksal](https://docksal.io).
+This is a [Drupal 8](https://www.drupal.org/8) site powered by [Docksal](https://docksal.io).
 
 ### Stack
 * apache2.4
@@ -46,4 +46,14 @@ fin init
 **5.** Open the URL in the browser.
 ```
 http://grievanceportal.local
+```
+
+## Notes
+
+```
+# start project
+fin up
+
+# check logs
+fin log
 ```
