@@ -26,6 +26,7 @@ AWS_SECRECT_ACCESS_KEY=
 **2.** Copy and rename the following files <br>
 `.config/default/default.settings.php` to `.docksal/settings.php` <br>
 `.config/default/default.settings.local.php` to `.docksal/settings.local.php` 
+<br>
 **3.** Enter database credentials in `.docksal/settings.local.php` 
 ```
 $databases['default']['default'] = array (
@@ -36,8 +37,13 @@ $databases['default']['default'] = array (
   'driver' => '',
 );
 ```
-**3.** Install the site
-Execute the following command in the project root
+**4.** Install the site. <br>
+Run the following command in the project root
 ```
 fin init
+```
+
+**5.** Open the URL in the browser.
+```
+http://grievanceportal.local
 ```
